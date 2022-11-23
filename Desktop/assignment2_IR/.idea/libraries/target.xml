@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="target">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assignment2_IR/target/original-assignment2_IR-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/assignment2_IR/target/assignment2_IR-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
